@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exness 100% Auto Rebate | Trusted Forex Cashback</title>
+    <meta name="description" content="Get 100% Auto Exness Rebate. We share all cashback with you! Make trading more profitable with automatic cashback from Exness broker.">
+    <meta name="keywords" content="exness rebate, exness cashback, exness 100% auto rebate, exness broker, forex trading exness, exness ib, exness partner">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: {
+                        gold: { 400: '#F2C94C', 500: '#E5B83C', 600: '#D4A72B' },
+                        dark: { 900: '#0A0A0A', 800: '#111111', 700: '#1A1A1A', 600: '#222222' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { background-color: #0A0A0A; color: #FFFFFF; }
+        .text-gradient { background: linear-gradient(135deg, #F2C94C 0%, #E5B83C 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .glow-gold { box-shadow: 0 0 40px rgba(242, 201, 76, 0.3); }
+    </style>
+</head>
+<body class="font-sans antialiased">
+
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 bg-dark-900/95 backdrop-blur-md border-b border-white/10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex items-center">
+                    <span class="text-2xl font-black tracking-tighter">EXNESS<span class="text-gold-400">CASHBACK</span></span>
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#rates" class="text-gray-300 hover:text-gold-400 transition text-sm font-medium">Payout Rates</a>
+                    <a href="#howto" class="text-gray-300 hover:text-gold-400 transition text-sm font-medium">How to Claim</a>
+                    <a href="#faq" class="text-gray-300 hover:text-gold-400 transition text-sm font-medium">FAQ</a>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <!-- LANGUAGE SWITCHER BUTTON -->
+                    <a href="/" class="px-4 py-2 rounded-lg border border-gold-400 text-gold-400 font-bold hover:bg-gold-400 hover:text-dark-900 transition text-sm flex items-center gap-2">
+                        🇮🇩 Indonesia
+                    </a>
+                    <a href="https://one.exnessonelink.com/a/itde4i4pxv" target="_blank" class="px-6 py-2.5 rounded-lg bg-gold-400 text-dark-900 font-bold hover:bg-gold-500 transition">
+                        Open Account
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="inline-block mb-4 px-4 py-1.5 rounded-full bg-gold-400/10 border border-gold-400/30">
+                <span class="text-gold-400 text-sm font-semibold tracking-wide uppercase">Official Exness Partner</span>
+            </div>
+            <h1 class="text-sm font-medium text-gray-400 mb-2 tracking-widest uppercase">Up To</h1>
+            <div class="relative mb-6">
+                <span class="text-8xl md:text-9xl font-black text-gradient leading-none">100%</span>
+            </div>
+            <h2 class="text-4xl md:text-5xl lg:text-6xl font-black mb-6 leading-tight">
+                Exness Rebate & Cashback<br><span class="text-gradient">on Every Trade</span>
+            </h2>
+            <p class="text-xl text-gray-400 mb-10 max-w-2xl mx-auto">
+                Credits returned automatically to your Exness account. Transparent, reliable, verifiable every step.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+                <a href="https://one.exnessonelink.com/a/itde4i4pxv" target="_blank" class="px-8 py-4 rounded-xl bg-gold-400 text-dark-900 font-bold text-lg hover:bg-gold-500 transition glow-gold">
+                    Get Cashback Now
+                </a>
+                <a href="#howto" class="px-8 py-4 rounded-xl border-2 border-gold-400 text-gold-400 font-bold text-lg hover:bg-gold-400 hover:text-dark-900 transition">
+                    No Exness Account Yet?
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cashback Rates -->
+    <section id="rates" class="py-20 lg:py-32 bg-dark-800/50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-4xl md:text-5xl font-black mb-4">Our Cashback Rates</h2>
+            <p class="text-gray-400 text-lg mb-12">All account types & assets — transparent, verifiable directly through Exness</p>
+            
+            <div class="max-w-3xl mx-auto mb-12">
+                <div class="text-7xl md:text-8xl font-black text-gradient mb-4">100%</div>
+                <p class="text-xl text-gray-300 mb-2">Top assets — cashback on every trade</p>
+                <p class="text-gray-400">From 0.01 lot — no minimum, no cap. Via Exness.</p>
+            </div>
+
+            <div class="max-w-4xl mx-auto bg-dark-800 rounded-2xl border border-white/10 overflow-hidden">
+                <div class="overflow-x-auto">
+                    <table class="w-full">
+                        <thead class="bg-dark-700">
+                            <tr>
+                                <th class="px-6 py-4 text-left text-sm font-semibold text-gray-300">ASSET</th>
+                                <th class="px-6 py-4 text-left text-sm font-semibold text-gray-300">TYPE</th>
+                                <th class="px-6 py-4 text-right text-sm font-semibold text-gold-400">CASHBACK</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-white/5 text-left">
+                            <tr class="hover:bg-dark-700/50 transition"><td class="px-6 py-4 font-medium">XAUUSD (Gold)</td><td class="px-6 py-4 text-gray-400">Gold / USD</td><td class="px-6 py-4 text-right text-gold-400 font-bold">100%</td></tr>
+                            <tr class="hover:bg-dark-700/50 transition"><td class="px-6 py-4 font-medium">EURUSD</td><td class="px-6 py-4 text-gray-400">Euro / Dollar</td><td class="px-6 py-4 text-right text-gold-400 font-bold">100%</td></tr>
+                            <tr class="hover:bg-dark-700/50 transition"><td class="px-6 py-4 font-medium">GBPUSD</td><td class="px-6 py-4 text-gray-400">Pound / Dollar</td><td class="px-6 py-4 text-right text-gold-400 font-bold">100%</td></tr>
+                            <tr class="hover:bg-dark-700/50 transition"><td class="px-6 py-4 font-medium">BTCUSD</td><td class="px-6 py-4 text-gray-400">Bitcoin / USD</td><td class="px-6 py-4 text-right text-gold-400 font-bold">100%</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How to Claim -->
+    <section id="howto" class="py-20 lg:py-32">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-black mb-4">How to Get Trading Cashback?</h2>
+                <p class="text-gray-400 text-lg">Choose your situation — start earning cashback immediately</p>
+            </div>
+            <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+                <!-- Existing Account -->
+                <div class="bg-dark-800 rounded-2xl p-8 border border-white/10 hover:border-gold-400/50 transition">
+                    <h3 class="text-2xl font-bold mb-4">Already Have Exness</h3>
+                    <p class="text-gray-400 mb-6">No need to open a new account — just switch partner to us.</p>
+                    <ol class="space-y-3 mb-8 text-gray-300 list-decimal list-inside">
+                        <li>Click the link below to log into Exness</li>
+                        <li>Go to live chat in the left menu</li>
+                        <li>Say you want to <strong>"Change Partner"</strong></li>
+                        <li>Attach our partner link and wait for confirmation</li>
+                    </ol>
+                    <a href="https://one.exnessonelink.com/a/itde4i4pxv" target="_blank" class="block w-full py-3 rounded-lg bg-gold-400 text-dark-900 font-bold text-center hover:bg-gold-500 transition">
+                        Click here to access Exness →
+                    </a>
+                </div>
+                <!-- New Account -->
+                <div class="bg-dark-800 rounded-2xl p-8 border border-white/10 hover:border-gold-400/50 transition">
+                    <h3 class="text-2xl font-bold mb-4">No Exness Account Yet</h3>
+                    <p class="text-gray-400 mb-6">Open an account via our partner link. Free, no extra charges.</p>
+                    <ol class="space-y-3 mb-8 text-gray-300 list-decimal list-inside">
+                        <li>Click the link below to open a new account</li>
+                        <li>Fill in your details and verify with Exness</li>
+                        <li>Start trading and receive cashback automatically</li>
+                    </ol>
+                    <a href="https://one.exnessonelink.com/a/itde4i4pxv" target="_blank" class="block w-full py-3 rounded-lg border-2 border-gold-400 text-gold-400 font-bold text-center hover:bg-gold-400 hover:text-dark-900 transition">
+                        Open Free Account
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" class="py-20 lg:py-32 bg-dark-800/50">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-4xl font-black mb-12 text-center">Frequently Asked Questions</h2>
+            <div class="space-y-4">
+                <div class="bg-dark-700 rounded-xl p-6 border border-white/10">
+                    <h3 class="font-bold text-lg mb-2">Do my spreads or trading conditions change?</h3>
+                    <p class="text-gray-400">No. You trade with exactly the same spreads, execution, and account types as any other Exness client. The cashback comes from our partner commission, not from your account.</p>
+                </div>
+                <div class="bg-dark-700 rounded-xl p-6 border border-white/10">
+                    <h3 class="font-bold text-lg mb-2">When and how do I receive the cashback?</h3>
+                    <p class="text-gray-400">Cashback is credited automatically to your Exness account daily. Every payout is verifiable directly in your Exness dashboard.</p>
+                </div>
+                <div class="bg-dark-700 rounded-xl p-6 border border-white/10">
+                    <h3 class="font-bold text-lg mb-2">Is there a minimum trading volume?</h3>
+                    <p class="text-gray-400">No minimum and no cap. Cashback starts from 0.01 lot — every trade counts, whatever your account size.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark-900 border-t border-white/10 py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="text-2xl font-black mb-4">EXNESS<span class="text-gold-400">CASHBACK</span></div>
+            <p class="text-gray-400 text-sm mb-6 max-w-2xl mx-auto">Official Exness Introducing Broker (IB) partner providing 100% cashback rebate to traders worldwide.</p>
+            <div class="border-t border-white/10 pt-8 text-xs text-gray-500">
+                <p class="mb-2"><strong>Risk Warning:</strong> Trading Forex and CFDs involves significant risk and can result in the loss of your invested capital. Ensure you fully understand the risks involved.</p>
+                <p>© 2024 ExnessCashback. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
