@@ -61,12 +61,51 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="#howto" class="text-gray-300 hover:text-gold-400 transition text-sm font-medium">How to Claim</a>
                     <a href="#faq" class="text-gray-300 hover:text-gold-400 transition text-sm font-medium">FAQ</a>
                 </div>
-<div class="hidden md:flex items-center space-x-2 bg-dark-800 rounded-lg p-1 border border-gold-400/30">
-    <a href="/" class="px-3 py-2 rounded-lg text-gold-400 font-bold hover:bg-gold-400/20 transition text-xs">🇮🇩 ID</a>
-    <a href="/en/" class="px-3 py-2 rounded-lg bg-gold-400 text-dark-900 font-bold text-xs">🇬🇧 EN</a>
-    <a href="/zh/" class="px-3 py-2 rounded-lg text-gold-400 font-bold hover:bg-gold-400/20 transition text-xs">🇨 ZH</a>
-    <a href="/vi/" class="px-3 py-2 rounded-lg text-gold-400 font-bold hover:bg-gold-400/20 transition text-xs">🇻🇳 VI</a>
+<!-- Language Dropdown -->
+<div class="relative" id="langDropdown">
+    <button onclick="toggleLangDropdown()" class="flex items-center space-x-2 px-4 py-2 rounded-lg border border-gold-400 text-gold-400 font-bold hover:bg-gold-400 hover:text-dark-900 transition text-sm">
+        <span></span>
+        <span>EN</span>
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+    </button>
+    
+    <div id="langMenu" class="hidden absolute right-0 mt-2 w-48 bg-dark-800 border border-gold-400/30 rounded-lg shadow-xl z-50">
+        <a href="/" class="flex items-center space-x-3 px-4 py-3 text-gray-300 hover:bg-gold-400/10 transition">
+            <span class="text-xl">🇮🇩</span>
+            <span>Indonesia</span>
+        </a>
+        <a href="/en/" class="flex items-center space-x-3 px-4 py-3 text-gold-400 bg-gold-400/10 border-l-4 border-gold-400">
+            <span class="text-xl">🇬🇧</span>
+            <span class="font-bold">English</span>
+            <span class="ml-auto">✓</span>
+        </a>
+        <a href="/zh/" class="flex items-center space-x-3 px-4 py-3 text-gray-300 hover:bg-gold-400/10 transition">
+            <span class="text-xl">🇨🇳</span>
+            <span>中文</span>
+        </a>
+        <a href="/vi/" class="flex items-center space-x-3 px-4 py-3 text-gray-300 hover:bg-gold-400/10 transition">
+            <span class="text-xl">🇻🇳</span>
+            <span>Tiếng Việt</span>
+        </a>
+    </div>
 </div>
+
+<script>
+function toggleLangDropdown() {
+    const menu = document.getElementById('langMenu');
+    menu.classList.toggle('hidden');
+}
+
+document.addEventListener('click', function(event) {
+    const dropdown = document.getElementById('langDropdown');
+    if (dropdown && !dropdown.contains(event.target)) {
+        const menu = document.getElementById('langMenu');
+        if (menu) menu.classList.add('hidden');
+    }
+});
+</script>
             </div>
         </div>
     </nav>
